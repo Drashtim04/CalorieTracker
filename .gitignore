@@ -1,0 +1,114 @@
+# =========================
+
+# Flutter / Dart
+
+# =========================
+
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+
+# Flutter generated files
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+.metadata
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.*
+
+# =========================
+
+# IDE / Editor Files
+
+# =========================
+
+.idea/
+.vscode/
+
+*.iml
+*.ipr
+*.iws
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Logs / Temp Files
+
+# =========================
+
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Keep Flutter dependency lock file
+
+!pubspec.lock
+
+# =========================
+
+# Python / Misc
+
+# =========================
+
+*.pyc
+.history/
+.svn/
+
+# =========================
+
+# Flutter Build Artifacts
+
+# =========================
+
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS Flutter generated
+
+**/ios/Flutter/.last_build_id
+
+# =========================
+
+# Generated Analysis Files
+
+# =========================
+
+analyze_out.txt
+
+# =========================
+
+# Documentation Build
+
+# =========================
+
+**/doc/api/
+
+# =========================
+
+# Symbolication / Obfuscation
+
+# =========================
+
+app.*.symbols
+app.*.map.json
